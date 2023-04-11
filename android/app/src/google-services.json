@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "530623047425",
+    "project_id": "afrogears123",
+    "storage_bucket": "afrogears123.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530623047425:android:ddb0eea995f96ebe181d00",
+        "android_client_info": {
+          "package_name": "com.example.car_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530623047425-d2mdan4ggnhjs1m4re1p8aj6p7q51365.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.car_store",
+            "certificate_hash": "4437e71b2cc446093cd45591c02a3d74243b19e8"
+          }
+        },
+        {
+          "client_id": "530623047425-nueoo8mt5h6fn34r3sa9acluj3kc7gav.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCISWejCf_3p-0aAQaxkdb46PdwWeNE7yo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530623047425-nueoo8mt5h6fn34r3sa9acluj3kc7gav.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
